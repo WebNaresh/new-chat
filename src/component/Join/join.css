@@ -1,0 +1,163 @@
+#img {
+  display: block;
+  width: 5rem;
+  margin: 14px auto;
+}
+
+.form {
+  background-color: rgba(18, 26, 43, 0.64);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px;
+  border-radius: 8px;
+  border: 1px solid rgb(218 218 218 / 34%);
+  width: 50rem;
+  overflow: hidden;
+  box-shadow: 0 4px 30px rgb(0 0 0 / 10%);
+  text-align: center;
+}
+
+input {
+  border-radius: 0.3rem;
+  padding: 8px 16px;
+  width: 52%;
+  border: 1px solid #d9d9d9;
+  outline: none;
+  display: block;
+  margin: 4px auto 7px auto;
+}
+
+.button {
+  border-radius: 0.3rem;
+  border: none;
+  background: #719be6;
+  width: 57%;
+  padding: 10px;
+  cursor: pointer;
+  color: #ffffff;
+  margin-top: 25px;
+  box-shadow: 0 2px 10px -3px #719be6;
+  display: block;
+  margin: 0px auto 0px auto;
+}
+
+a {
+  text-align: center;
+  margin-top: 30px;
+  color: #719be6;
+  text-decoration: none;
+  padding: 5px;
+  display: inline-block;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.S9gUrf-YoZ4jf {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.number {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 50vh;
+}
+.apiPassword {
+  display: flex;
+  flex-direction: column;
+}
+
+.apiPassword button {
+  border-radius: 0.5rem;
+  padding: 10px 15px;
+  width: 12rem;
+  outline: none;
+  display: block;
+  cursor: pointer;
+  margin: 20px auto 20px auto;
+}
+#apiPassword {
+  border-radius: 0.5rem;
+  padding: 10px 15px;
+  width: 15rem;
+  border: 1px solid #d9d9d9;
+  outline: none;
+  display: block;
+  margin: 20px auto 0px auto;
+}
+/* .apiPassword {
+  position: absolute;
+  width: 100vw;
+  top: 50%;
+} */
+.formth h5 {
+  position: relative;
+  bottom: 0.6rem;
+  background: #121a2b;
+  width: 1.7rem;
+  margin: 0rem auto;
+  color: white;
+}
+.googleLogin {
+  margin: 2rem;
+}
+.transfyLogo {
+  border-radius: 50%;
+  width: 6rem;
+  padding: 1rem;
+  background: white;
+}
+#section1 {
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.svg {
+  position: relative;
+  top: -2rem;
+  right: -8rem;
+}
+svg.svg-inline--fa.fa-eye-slash {
+  cursor: pointer;
+  background: white;
+  padding: 0 8px;
+}
+svg.svg-inline--fa.fa-eye {
+  cursor: pointer;
+  background: white;
+  padding: 0 8px;
+}
+.googlePasswordHandle {
+  right: -40%;
+  top: -35%;
+}
+.Link1 {
+  margin: 1rem;
+  color: skyblue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+#swipe {
+  display: flex;
+}
+#form1 {
+  width: 35rem;
+  height: 14rem;
+  padding: 2rem;
+}
+#form2 {
+  width: 35rem;
+  height: 18rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

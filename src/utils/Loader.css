@@ -1,0 +1,39 @@
+.bars {
+  width: 79.2px;
+  height: 105.6px;
+  --c: linear-gradient(#474bff 0 0);
+  background: var(--c) 0% 50%, var(--c) 50% 50%, var(--c) 100% 50%;
+  background-size: 15.8px 50%;
+  background-repeat: no-repeat;
+  animation: bars-7s9ul0hg 0.8s infinite linear alternate;
+}
+
+@keyframes bars-7s9ul0hg {
+  20% {
+    background-size: 15.8px 20%, 15.8px 50%, 15.8px 50%;
+  }
+
+  40% {
+    background-size: 15.8px 100%, 15.8px 20%, 15.8px 50%;
+  }
+
+  60% {
+    background-size: 15.8px 50%, 15.8px 100%, 15.8px 20%;
+  }
+
+  80% {
+    background-size: 15.8px 50%, 15.8px 50%, 15.8px 100%;
+  }
+}
+
+/* Custom css */
+.Bars {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background: #58595a61;
+  position: absolute;
+  align-items: center;
+  z-index: 200000;
+}
